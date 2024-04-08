@@ -17,3 +17,66 @@
 <br>
 <br>
 <br>
+
+
+### 💻 My Stats
+
+---
+
+<br>
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%208%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 66.0 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+🌆 Daytime                55 commits          ███████████████░░░░░░░░░░   59.78 % 
+🌃 Evening                30 commits          ████████░░░░░░░░░░░░░░░░░   32.61 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   24 commits          ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+Tuesday                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Wednesday                18 commits          █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+Thursday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Friday                   22 commits          ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+Saturday                 14 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Sunday                   10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 08/04/2024 15:12:03 UTC
+<!--END_SECTION:waka-->
