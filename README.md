@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/Naxsyl"><img height=700px alt="Hello, I'm Naxsyl. I Love Anime" src="img/banner.png" /></a></p>
+<p align="center"><a href="https://github.com/Naxsyl"><img height=400px alt="Hello, I'm Naxsyl. I Love Anime" src="img/banner.png" /></a></p>
 
 <p align="center">
 
