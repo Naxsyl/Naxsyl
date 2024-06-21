@@ -29,7 +29,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
@@ -68,22 +68,18 @@ Sunday                   4 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     1 hr 16 mins        ██████████████░░░░░░░░░░░   55.89 % 
-JavaScript               59 mins             ███████████░░░░░░░░░░░░░░   43.15 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 17 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-react                    1 hr 37 mins        ██████████████████░░░░░░░   71.43 % 
-rest-api                 39 mins             ███████░░░░░░░░░░░░░░░░░░   28.56 % 
-javascript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 17 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 20/06/2024 15:09:13 UTC
+ Last Updated on 21/06/2024 15:13:16 UTC
 <!--END_SECTION:waka-->
