@@ -76,8 +76,6 @@
 
 > 📦 153.1 kB Used in GitHub's Storage 
  > 
-> 🏆 10 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -109,21 +107,20 @@ Sunday                   9 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      2 hrs 28 mins       ████████████████░░░░░░░░░   63.61 % 
-SQL                      1 hr 25 mins        █████████░░░░░░░░░░░░░░░░   36.39 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 53 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-laundry                  3 hrs 53 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 53 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 21/03/2025 15:10:59 UTC
+ Last Updated on 22/03/2025 15:08:58 UTC
 <!--END_SECTION:waka-->
 </details>
 
