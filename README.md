@@ -68,6 +68,8 @@
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-485%20hrs%2012%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -107,23 +109,20 @@ Sunday                   9 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     33 mins             ██████████░░░░░░░░░░░░░░░   40.38 % 
-Bash                     25 mins             ████████░░░░░░░░░░░░░░░░░   31.47 % 
-PHP                      17 mins             █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-JavaScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 22 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-SixBook                  1 hr 22 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 21/05/2025 15:12:35 UTC
+ Last Updated on 22/05/2025 15:11:58 UTC
 <!--END_SECTION:waka-->
 </details>
 
