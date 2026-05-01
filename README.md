@@ -109,20 +109,21 @@ Sunday                   9 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     3 hrs 22 mins       ████████████████████░░░░░   81.27 % 
+CSS                      46 mins             █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+html                     4 hrs 8 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/04/2026 16:12:51 UTC
+ Last Updated on 01/05/2026 15:45:59 UTC
 <!--END_SECTION:waka-->
 </details>
 
