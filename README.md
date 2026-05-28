@@ -68,8 +68,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-993%20hrs%2031%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -84,53 +82,8 @@
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                19 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-🌆 Daytime                28 commits          ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
-🌃 Evening                31 commits          ███████░░░░░░░░░░░░░░░░░░   27.43 % 
-🌙 Night                  35 commits          ████████░░░░░░░░░░░░░░░░░   30.97 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-Tuesday                  27 commits          ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
-Wednesday                18 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-Thursday                 24 commits          █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-Friday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Saturday                 17 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Sunday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-PHP                      21 hrs 52 mins      █████████████████████████   98.08 % 
-JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-HTML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-
-🔥 Editors: 
-VS Code                  22 hrs 18 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-project-crud             12 hrs 58 mins      ███████████████░░░░░░░░░░   58.15 % 
-crud-project             7 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   33.41 % 
-project-portfolio        47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-new-crud                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-belajar-laravel          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-
-💻 Operating System: 
-Windows                  22 hrs 18 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 27/05/2026 17:50:48 UTC
+ Last Updated on 28/05/2026 17:55:40 UTC
 <!--END_SECTION:waka-->
 </details>
 
