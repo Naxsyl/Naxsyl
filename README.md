@@ -68,8 +68,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C093%20hrs%2059%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -109,25 +107,25 @@ Sunday                   9 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     22 hrs 49 mins      █████████████████████░░░░   84.17 % 
-CSS                      4 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Git                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+HTML                     26 hrs 41 mins      ███████████████████████░░   90.96 % 
+CSS                      2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Git                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 6 mins       █████████████████████████   100.00 % 
+VS Code                  29 hrs 20 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-html                     15 hrs 49 mins      ███████████████░░░░░░░░░░   58.35 % 
-bootstrap                10 hrs 55 mins      ██████████░░░░░░░░░░░░░░░   40.27 % 
-js-dasar                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+js-dasar                 11 hrs 59 mins      ██████████░░░░░░░░░░░░░░░   40.84 % 
+bootstrap                10 hrs 55 mins      █████████░░░░░░░░░░░░░░░░   37.20 % 
+html                     6 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
 
 💻 Operating System: 
-Windows                  27 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  29 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/07/2026 16:19:27 UTC
+ Last Updated on 25/07/2026 15:56:16 UTC
 <!--END_SECTION:waka-->
 </details>
 
