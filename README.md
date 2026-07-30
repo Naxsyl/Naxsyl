@@ -68,7 +68,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C111%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C115%20hrs%2036%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2018%20mins-blue?style=flat)
 
@@ -111,22 +111,21 @@ Sunday                   9 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     17 hrs 3 mins       █████████████████░░░░░░░░   68.75 % 
-PHP                      7 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   30.85 % 
-Git                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+HTML                     11 hrs 42 mins      █████████████░░░░░░░░░░░░   51.48 % 
+PHP                      10 hrs 56 mins      ████████████░░░░░░░░░░░░░   48.09 % 
+Git                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 48 mins      █████████████████████████   100.00 % 
+VS Code                  22 hrs 45 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-js-dasar                 12 hrs 5 mins       ████████████░░░░░░░░░░░░░   48.71 % 
-php-dasar                5 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-bootstrap                4 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-project-crud             2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+js-dasar                 11 hrs 42 mins      █████████████░░░░░░░░░░░░   51.46 % 
+project-crud             5 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
+php-dasar                5 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
 
 💻 Operating System: 
-Windows                  24 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -136,7 +135,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 29/07/2026 16:15:25 UTC
+ Last Updated on 30/07/2026 16:20:00 UTC
 <!--END_SECTION:waka-->
 </details>
 
