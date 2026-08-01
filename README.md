@@ -68,7 +68,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C118%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C123%20hrs%202%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2018%20mins-blue?style=flat)
 
@@ -111,20 +111,21 @@ Sunday                   9 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      15 hrs 3 mins       ██████████████████░░░░░░░   73.96 % 
-HTML                     5 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   26.02 % 
+PHP                      18 hrs 38 mins      █████████████████████████   98.90 % 
+HTML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 21 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 51 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-project-crud             9 hrs 51 mins       ████████████░░░░░░░░░░░░░   48.42 % 
-php-dasar                5 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   26.05 % 
-js-dasar                 5 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+project-crud             13 hrs 26 mins      ██████████████████░░░░░░░   71.33 % 
+php-dasar                5 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+js-dasar                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 💻 Operating System: 
-Windows                  20 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -134,7 +135,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 31/07/2026 16:29:33 UTC
+ Last Updated on 01/08/2026 15:52:05 UTC
 <!--END_SECTION:waka-->
 </details>
 
