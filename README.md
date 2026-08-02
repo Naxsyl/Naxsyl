@@ -68,7 +68,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C123%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C126%20hrs%2038%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2018%20mins-blue?style=flat)
 
@@ -111,21 +111,22 @@ Sunday                   9 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      18 hrs 38 mins      █████████████████████████   98.90 % 
-HTML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+PHP                      23 hrs 30 mins      █████████████████████████   99.11 % 
+HTML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 51 mins      █████████████████████████   100.00 % 
+VS Code                  23 hrs 42 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-project-crud             13 hrs 26 mins      ██████████████████░░░░░░░   71.33 % 
-php-dasar                5 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   28.13 % 
-js-dasar                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+project-crud             15 hrs 54 mins      █████████████████░░░░░░░░   67.11 % 
+php-dasar                5 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
+portfolio_frans          2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+js-dasar                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 💻 Operating System: 
-Windows                  18 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -135,7 +136,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 01/08/2026 15:52:05 UTC
+ Last Updated on 02/08/2026 15:52:32 UTC
 <!--END_SECTION:waka-->
 </details>
 
