@@ -68,7 +68,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C131%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C133%20hrs%2031%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2018%20mins-blue?style=flat)
 
@@ -111,20 +111,19 @@ Sunday                   9 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      21 hrs 38 mins      █████████████████████████   99.51 % 
-HTML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+PHP                      22 hrs 1 min        █████████████████████████   99.83 % 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 45 mins      █████████████████████████   100.00 % 
+VS Code                  22 hrs 3 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-project-crud             17 hrs 9 mins       ████████████████████░░░░░   78.91 % 
-portfolio_frans          3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-php-dasar                1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+project-crud             17 hrs 7 mins       ███████████████████░░░░░░   77.65 % 
+portfolio_frans          4 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
 
 💻 Operating System: 
-Windows                  21 hrs 45 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -134,7 +133,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 04/08/2026 16:45:59 UTC
+ Last Updated on 05/08/2026 16:25:52 UTC
 <!--END_SECTION:waka-->
 </details>
 
