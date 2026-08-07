@@ -68,10 +68,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C133%20hrs%2031%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2018%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -86,54 +82,8 @@
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                19 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-🌆 Daytime                28 commits          ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
-🌃 Evening                31 commits          ███████░░░░░░░░░░░░░░░░░░   27.43 % 
-🌙 Night                  35 commits          ████████░░░░░░░░░░░░░░░░░   30.97 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-Tuesday                  27 commits          ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
-Wednesday                18 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-Thursday                 24 commits          █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-Friday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Saturday                 17 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Sunday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-PHP                      22 hrs 1 min        █████████████████████████   99.83 % 
-HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🔥 Editors: 
-VS Code                  22 hrs 3 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-project-crud             17 hrs 7 mins       ███████████████████░░░░░░   77.65 % 
-portfolio_frans          4 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
-
-💻 Operating System: 
-Windows                  22 hrs 3 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 05/08/2026 16:25:52 UTC
+ Last Updated on 07/08/2026 15:43:15 UTC
 <!--END_SECTION:waka-->
 </details>
 
