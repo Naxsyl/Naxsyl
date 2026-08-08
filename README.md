@@ -68,6 +68,10 @@
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C146%20hrs%2040%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2018%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -82,8 +86,57 @@
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 07/08/2026 15:43:15 UTC
+```text
+🌞 Morning                19 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+🌆 Daytime                28 commits          ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
+🌃 Evening                31 commits          ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+🌙 Night                  35 commits          ████████░░░░░░░░░░░░░░░░░   30.97 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Tuesday                  27 commits          ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
+Wednesday                18 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Thursday                 24 commits          █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+Friday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Saturday                 17 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Sunday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+PHP                      25 hrs 39 mins      █████████████████████████   99.96 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔥 Editors: 
+VS Code                  25 hrs 40 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+portfolio_frans          12 hrs 30 mins      ████████████░░░░░░░░░░░░░   48.72 % 
+project-crud             6 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+dahsboard                2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+baru                     2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+oop-php                  1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+
+💻 Operating System: 
+Windows                  25 hrs 40 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 08/08/2026 15:19:02 UTC
 <!--END_SECTION:waka-->
 </details>
 
