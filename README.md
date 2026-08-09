@@ -68,7 +68,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C146%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C152%20hrs%2019%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2018%20mins-blue?style=flat)
 
@@ -111,22 +111,22 @@ Sunday                   9 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      25 hrs 39 mins      █████████████████████████   99.96 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+PHP                      20 hrs 48 mins      █████████████████████████   99.97 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 40 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 48 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portfolio_frans          12 hrs 30 mins      ████████████░░░░░░░░░░░░░   48.72 % 
-project-crud             6 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
-dahsboard                2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-baru                     2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-oop-php                  1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+portfolio_frans          10 hrs 6 mins       ████████████░░░░░░░░░░░░░   48.59 % 
+project-crud             3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+dahsboard                2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+baru                     2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+oop-php                  1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
 
 💻 Operating System: 
-Windows                  25 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -136,7 +136,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 08/08/2026 15:19:02 UTC
+ Last Updated on 09/08/2026 15:21:01 UTC
 <!--END_SECTION:waka-->
 </details>
 
