@@ -111,22 +111,24 @@ Sunday                   9 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      20 hrs 48 mins      █████████████████████████   99.97 % 
+PHP                      20 hrs 19 mins      ████████████████████████░   94.72 % 
+Blade Template           50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Bash                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 48 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 27 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portfolio_frans          10 hrs 6 mins       ████████████░░░░░░░░░░░░░   48.59 % 
-project-crud             3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-dahsboard                2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-baru                     2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-oop-php                  1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+portfolio_frans          9 hrs 19 mins       ███████████░░░░░░░░░░░░░░   43.45 % 
+belajar-laravel1         3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+dahsboard                2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+project-crud             2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+baru                     2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
 
 💻 Operating System: 
-Windows                  20 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -136,7 +138,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 10/08/2026 15:49:21 UTC
+ Last Updated on 11/08/2026 15:50:00 UTC
 <!--END_SECTION:waka-->
 </details>
 
