@@ -68,7 +68,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C155%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C159%20hrs%208%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2018%20mins-blue?style=flat)
 
@@ -111,24 +111,24 @@ Sunday                   9 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      18 hrs 46 mins      ██████████████████████░░░   87.65 % 
-Blade Template           2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-Bash                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+PHP                      15 hrs 36 mins      ███████████████████░░░░░░   75.06 % 
+Blade Template           4 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
+Bash                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 25 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 48 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portfolio_frans          7 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   35.36 % 
-belajar-laravel1         7 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   33.56 % 
-dahsboard                2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-baru                     2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-oop-php                  1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+belajar-laravel1         12 hrs 23 mins      ███████████████░░░░░░░░░░   59.60 % 
+dahsboard                2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+portfolio_frans          2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+baru                     2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+oop-php                  1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
 
 💻 Operating System: 
-Windows                  21 hrs 25 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -138,7 +138,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 12/08/2026 15:49:41 UTC
+ Last Updated on 13/08/2026 15:48:47 UTC
 <!--END_SECTION:waka-->
 </details>
 
