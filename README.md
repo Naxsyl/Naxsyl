@@ -68,7 +68,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C164%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C169%20hrs%2045%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2018%20mins-blue?style=flat)
 
@@ -111,23 +111,18 @@ Sunday                   9 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      15 hrs 9 mins       ████████████████░░░░░░░░░   65.69 % 
-Blade Template           7 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   32.70 % 
-Bash                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+PHP                      9 hrs 29 mins       ██████████████░░░░░░░░░░░   54.19 % 
+Blade Template           7 hrs 39 mins       ███████████░░░░░░░░░░░░░░   43.71 % 
+Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 3 mins       █████████████████████████   100.00 % 
+VS Code                  17 hrs 31 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-belajar-laravel1         17 hrs 24 mins      ███████████████████░░░░░░   75.49 % 
-dahsboard                2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-baru                     2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-portfolio_frans          1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+belajar-laravel1         17 hrs 31 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  23 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  17 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -137,7 +132,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 14/08/2026 15:41:10 UTC
+ Last Updated on 15/08/2026 15:10:11 UTC
 <!--END_SECTION:waka-->
 </details>
 
