@@ -68,7 +68,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C203%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C207%20hrs%2047%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2018%20mins-blue?style=flat)
 
@@ -111,22 +111,22 @@ Sunday                   9 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      6 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   41.36 % 
-Blade Template           4 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   31.23 % 
-JavaScript               4 hrs               ███████░░░░░░░░░░░░░░░░░░   26.66 % 
+JavaScript               8 hrs 11 mins       █████████████░░░░░░░░░░░░   53.80 % 
+PHP                      5 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   33.94 % 
+Blade Template           1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
 Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 3 mins       █████████████████████████   100.00 % 
+VS Code                  15 hrs 12 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-belajar-laravel1         10 hrs 55 mins      ██████████████████░░░░░░░   72.59 % 
-belajar-react            4 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+belajar-react            8 hrs 13 mins       ██████████████░░░░░░░░░░░   54.11 % 
+belajar-laravel1         6 hrs 54 mins       ███████████░░░░░░░░░░░░░░   45.45 % 
 be-laravel               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 💻 Operating System: 
-Windows                  15 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  15 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -136,7 +136,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 04/09/2026 17:53:52 UTC
+ Last Updated on 05/09/2026 17:00:46 UTC
 <!--END_SECTION:waka-->
 </details>
 
