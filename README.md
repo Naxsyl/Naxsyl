@@ -68,7 +68,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C207%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C209%20hrs%2013%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2018%20mins-blue?style=flat)
 
@@ -111,22 +111,21 @@ Sunday                   9 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               8 hrs 11 mins       █████████████░░░░░░░░░░░░   53.80 % 
-PHP                      5 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   33.94 % 
-Blade Template           1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+JavaScript               9 hrs 36 mins       ███████████████████░░░░░░   75.19 % 
+PHP                      3 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 12 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 46 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-belajar-react            8 hrs 13 mins       ██████████████░░░░░░░░░░░   54.11 % 
-belajar-laravel1         6 hrs 54 mins       ███████████░░░░░░░░░░░░░░   45.45 % 
-be-laravel               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+belajar-react            9 hrs 39 mins       ███████████████████░░░░░░   75.56 % 
+belajar-laravel1         3 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
 
 💻 Operating System: 
-Windows                  15 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -136,7 +135,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 07/09/2026 18:55:27 UTC
+ Last Updated on 08/09/2026 18:11:25 UTC
 <!--END_SECTION:waka-->
 </details>
 
