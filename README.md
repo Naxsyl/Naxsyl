@@ -68,9 +68,9 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C221%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C225%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -111,32 +111,47 @@ Sunday                   9 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Blade Template           7 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   39.30 % 
-JavaScript               5 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.11 % 
-PHP                      4 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
-HTML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Blade Template           9 hrs 2 mins        █████████████░░░░░░░░░░░░   50.16 % 
+PHP                      6 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   34.76 % 
+JavaScript               1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+HTML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+Bash                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 6 mins       █████████████████████████   100.00 % 
+VS Code                  17 hrs 56 mins      █████████████████████████   99.56 % 
+Antigravity Desktop      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🐱‍💻 Projects: 
-point-of-sales           11 hrs 33 mins      ████████████████░░░░░░░░░   63.77 % 
-belajar-react            5 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.11 % 
-belajar-laravel1         55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+point-of-sales           15 hrs 17 mins      █████████████████████░░░░   84.88 % 
+belajar-react            1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+belajar-laravel1         1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 
 💻 Operating System: 
-Windows                  18 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  18 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 30 mins (2.82%)
+
+✍️ 0 lines written by AI, 3,580 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 90 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 91 characters per prompt
+🔁 Iterative Prompter — average 90 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/09/2026 17:59:43 UTC
+ Last Updated on 12/09/2026 17:31:49 UTC
 <!--END_SECTION:waka-->
 </details>
 
