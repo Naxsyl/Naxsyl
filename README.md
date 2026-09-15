@@ -68,7 +68,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C225%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C226%20hrs%2055%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2048%20mins-blue?style=flat)
 
@@ -111,31 +111,31 @@ Sunday                   9 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Blade Template           9 hrs 2 mins        █████████████░░░░░░░░░░░░   50.16 % 
-PHP                      6 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   34.76 % 
-JavaScript               1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-HTML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-Bash                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Blade Template           9 hrs 54 mins       ██████████████░░░░░░░░░░░   55.71 % 
+PHP                      6 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   35.66 % 
+HTML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Bash                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 56 mins      █████████████████████████   99.56 % 
-Antigravity Desktop      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+VS Code                  17 hrs 42 mins      █████████████████████████   99.55 % 
+Antigravity Desktop      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🐱‍💻 Projects: 
-point-of-sales           15 hrs 17 mins      █████████████████████░░░░   84.88 % 
-belajar-react            1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-belajar-laravel1         1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+point-of-sales           15 hrs 17 mins      █████████████████████░░░░   85.97 % 
+belajar-laravel1         1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+POSpraujk                1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 
 💻 Operating System: 
-Windows                  18 hrs 1 min        █████████████████████████   100.00 % 
+Windows                  17 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 mins (2.82%)
+⏱ AI Coding Time: 30 mins (2.86%)
 
-✍️ 0 lines written by AI, 3,580 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 3,462 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -151,7 +151,7 @@ Windows                  18 hrs 1 min        ███████████�
 ```
 
 
- Last Updated on 14/09/2026 19:41:10 UTC
+ Last Updated on 15/09/2026 18:34:47 UTC
 <!--END_SECTION:waka-->
 </details>
 
