@@ -76,7 +76,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 195.2 kB Used in GitHub's Storage 
+> 📦 195.3 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -111,31 +111,31 @@ Sunday                   9 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Blade Template           9 hrs 54 mins       ██████████████░░░░░░░░░░░   55.71 % 
-PHP                      6 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   35.66 % 
-HTML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-Bash                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Blade Template           9 hrs               ███████████████░░░░░░░░░░   60.56 % 
+PHP                      4 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   32.44 % 
+HTML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Bash                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 42 mins      █████████████████████████   99.55 % 
-Antigravity Desktop      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+VS Code                  14 hrs 48 mins      █████████████████████████   99.46 % 
+Antigravity Desktop      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🐱‍💻 Projects: 
-point-of-sales           15 hrs 17 mins      █████████████████████░░░░   85.97 % 
-belajar-laravel1         1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-POSpraujk                1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+point-of-sales           12 hrs 23 mins      █████████████████████░░░░   83.23 % 
+belajar-laravel1         1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+POSpraujk                1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
 
 💻 Operating System: 
-Windows                  17 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 mins (2.86%)
+⏱ AI Coding Time: 30 mins (3.42%)
 
-✍️ 0 lines written by AI, 3,462 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,709 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -151,7 +151,7 @@ Windows                  17 hrs 47 mins      ███████████�
 ```
 
 
- Last Updated on 15/09/2026 18:34:47 UTC
+ Last Updated on 16/09/2026 18:32:53 UTC
 <!--END_SECTION:waka-->
 </details>
 
