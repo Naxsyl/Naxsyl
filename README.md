@@ -111,47 +111,46 @@ Sunday                   9 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Blade Template           9 hrs               ███████████████░░░░░░░░░░   60.56 % 
-PHP                      4 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   32.44 % 
-HTML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Bash                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Blade Template           5 hrs 21 mins       ██████████████░░░░░░░░░░░   56.90 % 
+PHP                      3 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   39.39 % 
+Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 48 mins      █████████████████████████   99.46 % 
-Antigravity Desktop      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+VS Code                  9 hrs 20 mins       █████████████████████████   99.15 % 
+Antigravity Desktop      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🐱‍💻 Projects: 
-point-of-sales           12 hrs 23 mins      █████████████████████░░░░   83.23 % 
-belajar-laravel1         1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-POSpraujk                1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+point-of-sales           7 hrs 34 mins       ████████████████████░░░░░   80.33 % 
+POSpraujk                1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+belajar-laravel1         39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 
 💻 Operating System: 
-Windows                  14 hrs 53 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 mins (3.42%)
+⏱ AI Coding Time: 30 mins (5.4%)
 
-✍️ 0 lines written by AI, 2,709 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,814 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 90 AI Prompts
+🧠 1 AI Sessions, 148 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📝 Concise Prompter — average 91 characters per prompt
-🔁 Iterative Prompter — average 90 prompts per session
+🔁 Iterative Prompter — average 148 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/09/2026 18:32:53 UTC
+ Last Updated on 17/09/2026 18:41:02 UTC
 <!--END_SECTION:waka-->
 </details>
 
