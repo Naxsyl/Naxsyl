@@ -111,30 +111,30 @@ Sunday                   9 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Blade Template           5 hrs 21 mins       ██████████████░░░░░░░░░░░   56.90 % 
-PHP                      3 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   39.39 % 
-Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Blade Template           2 hrs 48 mins       █████████████░░░░░░░░░░░░   52.68 % 
+PHP                      2 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   40.76 % 
+Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 20 mins       █████████████████████████   99.15 % 
-Antigravity Desktop      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+VS Code                  5 hrs 14 mins       █████████████████████████   98.50 % 
+Antigravity Desktop      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 🐱‍💻 Projects: 
-point-of-sales           7 hrs 34 mins       ████████████████████░░░░░   80.33 % 
-POSpraujk                1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-belajar-laravel1         39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+point-of-sales           3 hrs 45 mins       ██████████████████░░░░░░░   70.57 % 
+POSpraujk                1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
+belajar-laravel1         22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 
 💻 Operating System: 
-Windows                  9 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 mins (5.4%)
+⏱ AI Coding Time: 30 mins (9.56%)
 
-✍️ 0 lines written by AI, 1,814 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,142 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -150,7 +150,7 @@ Windows                  9 hrs 25 mins       ███████████�
 ```
 
 
- Last Updated on 17/09/2026 18:41:02 UTC
+ Last Updated on 18/09/2026 17:57:45 UTC
 <!--END_SECTION:waka-->
 </details>
 
