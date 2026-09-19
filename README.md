@@ -68,7 +68,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C226%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C228%20hrs%2046%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2048%20mins-blue?style=flat)
 
@@ -111,46 +111,31 @@ Sunday                   9 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Blade Template           2 hrs 48 mins       █████████████░░░░░░░░░░░░   52.68 % 
-PHP                      2 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   40.76 % 
-Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+HTML                     1 hr 51 mins        ███████████████░░░░░░░░░░   60.79 % 
+Blade Template           52 mins             ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+Bash                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+PHP                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 14 mins       █████████████████████████   98.50 % 
-Antigravity Desktop      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+VS Code                  3 hrs 3 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-point-of-sales           3 hrs 45 mins       ██████████████████░░░░░░░   70.57 % 
-POSpraujk                1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-belajar-laravel1         22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+html                     1 hr 51 mins        ███████████████░░░░░░░░░░   60.79 % 
+POSpraujk                1 hr 11 mins        ██████████░░░░░░░░░░░░░░░   39.21 % 
 
 💻 Operating System: 
-Windows                  5 hrs 19 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 mins (9.56%)
-
-✍️ 0 lines written by AI, 1,142 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 148 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 91 characters per prompt
-🔁 Iterative Prompter — average 148 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 18/09/2026 17:57:45 UTC
+ Last Updated on 19/09/2026 17:35:31 UTC
 <!--END_SECTION:waka-->
 </details>
 
