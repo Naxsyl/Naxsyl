@@ -68,7 +68,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C228%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C233%20hrs%2046%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2048%20mins-blue?style=flat)
 
@@ -111,21 +111,17 @@ Sunday                   9 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     1 hr 51 mins        ███████████████░░░░░░░░░░   60.79 % 
-Blade Template           52 mins             ███████░░░░░░░░░░░░░░░░░░   28.54 % 
-Bash                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-PHP                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+HTML                     5 hrs 44 mins       █████████████████████░░░░   82.40 % 
+CSS                      1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 3 mins        █████████████████████████   100.00 % 
+VS Code                  6 hrs 58 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-html                     1 hr 51 mins        ███████████████░░░░░░░░░░   60.79 % 
-POSpraujk                1 hr 11 mins        ██████████░░░░░░░░░░░░░░░   39.21 % 
+html                     6 hrs 58 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  6 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -135,7 +131,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 21/09/2026 19:48:44 UTC
+ Last Updated on 22/09/2026 18:24:36 UTC
 <!--END_SECTION:waka-->
 </details>
 
