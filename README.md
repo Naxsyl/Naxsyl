@@ -68,7 +68,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C242%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C244%20hrs%2050%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2048%20mins-blue?style=flat)
 
@@ -111,19 +111,19 @@ Sunday                   9 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     10 hrs 37 mins      ████████████████░░░░░░░░░   65.81 % 
-CSS                      5 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   34.08 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+HTML                     12 hrs 22 mins      █████████████████░░░░░░░░   68.67 % 
+CSS                      5 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   31.23 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 8 mins       █████████████████████████   100.00 % 
+VS Code                  18 hrs 1 min        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-html                     13 hrs 37 mins      █████████████████████░░░░   84.42 % 
-tugas portofolio         2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+html                     13 hrs 37 mins      ███████████████████░░░░░░   75.57 % 
+tugas portofolio         4 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
 
 💻 Operating System: 
-Windows                  16 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  18 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -133,7 +133,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 24/09/2026 18:44:52 UTC
+ Last Updated on 25/09/2026 19:01:49 UTC
 <!--END_SECTION:waka-->
 </details>
 
