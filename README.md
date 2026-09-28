@@ -86,57 +86,8 @@
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                19 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-🌆 Daytime                28 commits          ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
-🌃 Evening                31 commits          ███████░░░░░░░░░░░░░░░░░░   27.43 % 
-🌙 Night                  35 commits          ████████░░░░░░░░░░░░░░░░░   30.97 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-Tuesday                  27 commits          ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
-Wednesday                18 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-Thursday                 24 commits          █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-Friday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Saturday                 17 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Sunday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-HTML                     10 hrs 46 mins      ████████████████░░░░░░░░░   65.49 % 
-CSS                      5 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   34.23 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-
-🔥 Editors: 
-VS Code                  16 hrs 26 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-html                     11 hrs 39 mins      ██████████████████░░░░░░░   70.85 % 
-tugas portofolio         4 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   26.77 % 
-new 1                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-
-💻 Operating System: 
-Windows                  16 hrs 26 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 27/09/2026 18:45:53 UTC
+ Last Updated on 28/09/2026 20:55:44 UTC
 <!--END_SECTION:waka-->
 </details>
 
