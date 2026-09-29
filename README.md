@@ -86,8 +86,57 @@
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 28/09/2026 20:55:44 UTC
+```text
+🌞 Morning                19 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+🌆 Daytime                28 commits          ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
+🌃 Evening                31 commits          ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+🌙 Night                  35 commits          ████████░░░░░░░░░░░░░░░░░   30.97 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Tuesday                  27 commits          ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
+Wednesday                18 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Thursday                 24 commits          █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+Friday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Saturday                 17 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Sunday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+HTML                     7 hrs 3 mins        ███████████████░░░░░░░░░░   61.16 % 
+CSS                      4 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   38.44 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+
+🔥 Editors: 
+VS Code                  11 hrs 31 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+html                     6 hrs 41 mins       ██████████████░░░░░░░░░░░   58.00 % 
+tugas portofolio         4 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   38.61 % 
+new 1                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+
+💻 Operating System: 
+Windows                  11 hrs 31 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 29/09/2026 19:42:46 UTC
 <!--END_SECTION:waka-->
 </details>
 
