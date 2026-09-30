@@ -111,22 +111,22 @@ Sunday                   9 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     7 hrs 3 mins        ███████████████░░░░░░░░░░   61.16 % 
-CSS                      4 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   38.44 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+HTML                     4 hrs 42 mins       ██████████████████░░░░░░░   72.89 % 
+CSS                      1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   26.66 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 31 mins      █████████████████████████   100.00 % 
+VS Code                  6 hrs 28 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-html                     6 hrs 41 mins       ██████████████░░░░░░░░░░░   58.00 % 
-tugas portofolio         4 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   38.61 % 
-new 1                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+tugas portofolio         4 hrs 27 mins       █████████████████░░░░░░░░   68.82 % 
+html                     1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
+new 1                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 
 💻 Operating System: 
-Windows                  11 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  6 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -136,7 +136,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 29/09/2026 19:42:46 UTC
+ Last Updated on 30/09/2026 19:44:07 UTC
 <!--END_SECTION:waka-->
 </details>
 
