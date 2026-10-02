@@ -111,21 +111,20 @@ Sunday                   9 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     2 hrs 7 mins        ███████████████████████░░   93.00 % 
-CSS                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+HTML                     21 mins             ███████████████████████░░   92.31 % 
+Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 16 mins       █████████████████████████   100.00 % 
+VS Code                  23 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tugas portofolio         1 hr 53 mins        █████████████████████░░░░   82.85 % 
-new 1                    23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+new 1                    23 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  23 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -135,7 +134,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 01/10/2026 19:58:24 UTC
+ Last Updated on 02/10/2026 19:39:38 UTC
 <!--END_SECTION:waka-->
 </details>
 
